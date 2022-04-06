@@ -1,0 +1,35 @@
+@font-face { font-family: VT; src: url('fonts/traveling_typewriter/ttw.ttf'); }
+      p {
+         font-family: VT
+      }
+      h3 {
+        font-family: VT
+      }
+      i {
+        font-family: VT
+      }
+      div {
+        font-family: VT
+      }
+
+.text3 {
+    margin-right: 250px;
+    margin-left: 250px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.text6 {
+    margin-right: 250px;
+    margin-top: 100px;
+    margin-left: 250px;
+    font-size: 30px;
+    text-align: center;
+}
+.text7 {
+    margin-right: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 20px;
+    text-align: center;
+}
